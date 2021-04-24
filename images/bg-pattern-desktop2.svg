@@ -1,0 +1,10 @@
+<svg id="bg-pattern-desktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="830" height="800" viewBox="0 0 830 800">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.758" y1="0.027" x2="0.295" y2="0.648" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#c0a496" stop-opacity="0.745"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1" data-name="Path 1" d="M0,800Q72.835,522.514,355.473,450.263T788,0V800Z" transform="translate(788 800) rotate(180)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  <path id="Path_2" data-name="Path 2" d="M413,800q38.544-146.721,188.112-184.924T830,377V800Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+</svg>
