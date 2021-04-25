@@ -197,6 +197,7 @@ background-repeat: no-repeat;
     }
     
     .main-container{
+        padding-bottom:0;
         flex-direction: row;
         background-image: url(../images/bg-pattern-desktop2.svg);
         background-repeat: no-repeat;
