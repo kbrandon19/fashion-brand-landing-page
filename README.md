@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/kbrandon19/BaseApparel.git]
+- Solution URL: [https://github.com/kbrandon19/fashion.git]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
