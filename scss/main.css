@@ -42,7 +42,7 @@ h1 {
 
 .desktop-hero {
   display: none;
-  background-image: url(./images/hero-desktop.JPG);
+  background-image: url(/images/hero-desktop.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -51,7 +51,7 @@ h1 {
 header {
   padding: 2rem 0 1rem 2rem;
   height: auto;
-  background-image: url(./images/bg-pattern-mobile-header.svg);
+  background-image: url(/images/bg-pattern-mobile-header.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -78,7 +78,7 @@ header img {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url(./images/bg-pattern-desktop2.svg);
+  background-image: url(/images/bg-pattern-desktop2.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -187,7 +187,7 @@ header img {
 .main-container .mobile-hero {
   width: 100%;
   height: 400px;
-  background-image: url(./images/siro.JPG);
+  background-image: url(/images/siro.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
@@ -213,7 +213,7 @@ header img {
   header {
     position: absolute;
     padding: 4% 0 0 10%;
-    background-image: url(./images/bg-pattern-desktop-header.svg);
+    background-image: url(/images/bg-pattern-desktop-header.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -226,7 +226,7 @@ header img {
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
-    background-image: url(./images/bg-pattern-desktop2.svg);
+    background-image: url(/images/bg-pattern-desktop2.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -247,7 +247,7 @@ header img {
     display: block;
     width: 80%;
     height: 100vh;
-    background-image: url(./images/siro.JPG);
+    background-image: url(/images/siro.jpg);
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;

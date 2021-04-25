@@ -40,7 +40,7 @@ h1{ font-size:2.5rem;
 
 .desktop-hero{
     display:none;
-    background-image: url(./images/hero-desktop.JPG);
+    background-image: url(/images/hero-desktop.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -49,7 +49,7 @@ h1{ font-size:2.5rem;
 header{
     padding:2rem 0 1rem 2rem;
 height:auto;
-background-image: url(./images/bg-pattern-mobile-header.svg);
+background-image: url(/images/bg-pattern-mobile-header.svg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -64,7 +64,7 @@ background-image: url(./images/bg-pattern-mobile-header.svg);
     flex-direction: column-reverse;
     justify-content: flex-end;
     align-items: center;
-    background-image: url(./images/bg-pattern-desktop2.svg);
+    background-image: url(/images/bg-pattern-desktop2.svg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -161,7 +161,7 @@ background-image: url(./images/bg-pattern-mobile-header.svg);
     .mobile-hero{
         width:100%;
         height:400px;
-        background-image: url(./images/siro.JPG);
+        background-image: url(/images/siro.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top;
@@ -173,6 +173,7 @@ background-image: url(./images/bg-pattern-mobile-header.svg);
 
     p{
         font-size:1.1rem; 
+        
         color:#2C221F;
         line-height: 1.7;
         margin-bottom:40px;
@@ -190,7 +191,7 @@ background-image: url(./images/bg-pattern-mobile-header.svg);
     header{
         position: absolute;
         padding:4% 0 0 10%;
-        background-image: url(./images/bg-pattern-desktop-header.svg);
+        background-image: url(/images/bg-pattern-desktop-header.svg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -199,7 +200,7 @@ background-image: url(./images/bg-pattern-mobile-header.svg);
     
     .main-container{
         flex-direction: row;
-        background-image: url(./images/bg-pattern-desktop2.svg);
+        background-image: url(/images/bg-pattern-desktop2.svg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -221,7 +222,7 @@ background-image: url(./images/bg-pattern-mobile-header.svg);
             display:block;
             width:80%;
             height:100vh;
-            background-image: url(./images/siro.JPG);
+            background-image: url(/images/siro.jpg);
             background-repeat: no-repeat;
             background-position: left;
             background-size: cover;
