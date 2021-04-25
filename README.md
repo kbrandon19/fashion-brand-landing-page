@@ -1,7 +1,4 @@
-# Frontend Mentor - Base Apparel coming soon page solution
-
-This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+# Fashion Brand Landing Page
 ## Table of contents
 
 - [Overview](#overview)
@@ -10,12 +7,9 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -37,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/kbrandon19/fashion.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [https://kbrandon19.github.io/fashion-brand-landing-page/](https://kbrandon19.github.io/fashion-brand-landing-page/)
 
 ## My process
 
@@ -51,12 +45,6 @@ Users should be able to:
 - Mobile-first workflow
 
 
-### What I learned
-
-I became more familiar and comfortable with Javascript using it to validate the email input from the user.
-
-
-
 ## Author
 
 - Website - [Kenneth Brandon](https://www.your-site.com)
@@ -64,5 +52,4 @@ I became more familiar and comfortable with Javascript using it to validate the 
 - Twitter - [@mrdebonairfox](https://www.twitter.com/mrdebonairfox)
 - Instgram - [@mrdebonairfox](https://www.instagram.com/mrdebonairfox)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
