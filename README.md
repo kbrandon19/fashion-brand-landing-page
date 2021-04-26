@@ -9,19 +9,13 @@
 - [Author](#author)
 
 
+## Screenshot
 
-
-
-### Screenshot
-
-## Mobile (375px)
+#### Mobile (375px)
 ![](./images/mobile-screenshot.png)
 
-## Desktop (1440px)
+#### Desktop (1440px)
 ![](./images/desktop-screenshot.png)
-
-
-
 
 
 ### Links
@@ -48,5 +42,3 @@ desktop layout and i can use `flex-direction:column`. Knowing that everything wi
 - Frontend Mentor - [@kbrandon19](https://www.frontendmentor.io/profile/kbrandon19)
 - Twitter - [@mrdebonairfox](https://www.twitter.com/mrdebonairfox)
 - Instgram - [@mrdebonairfox](https://www.instagram.com/mrdebonairfox)
-
-
