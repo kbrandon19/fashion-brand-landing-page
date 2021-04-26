@@ -2,7 +2,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -15,10 +14,10 @@
 
 ### Screenshot
 
-## Mobile
+## Mobile (375px)
 ![](./images/mobile-screenshot.png)
 
-## Desktop
+## Desktop (1440px)
 ![](./images/desktop-screenshot.png)
 
 
@@ -26,7 +25,6 @@
 
 
 ### Links
-
 
 - Live Site URL: [https://kbrandon19.github.io/fashion-brand-landing-page/](https://kbrandon19.github.io/fashion-brand-landing-page/)
 
