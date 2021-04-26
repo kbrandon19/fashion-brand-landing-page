@@ -11,22 +11,16 @@
 
 
 
-## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Receive an error message when the `form` is submitted if:
-  - The `input` field is empty
-  - The email address is not formatted correctly
 
 ### Screenshot
 
-![](./images/desktop-screenshot.png)
+## Mobile
 ![](./images/mobile-screenshot.png)
+
+## Desktop
+![](./images/desktop-screenshot.png)
+
 
 
 
@@ -36,18 +30,21 @@ Users should be able to:
 
 - Live Site URL: [https://kbrandon19.github.io/fashion-brand-landing-page/](https://kbrandon19.github.io/fashion-brand-landing-page/)
 
-## My process
+### My process
+
+When completing this project I knew I would resort to using Flexbox to create the side by side view for the 
+desktop layout and i can use `flex-direction:column`. Knowing that everything will be contained in one primary section, I decided to place all the content in the `main` tag. 
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- SCSS
 - Flexbox
--Javascript (Email Validation, Error messages)
+- Javascript (Email Validation, Error messages)
 - Mobile-first workflow
 
 
-## Author
+### Author
 
 - Website - [Kenneth Brandon](https://www.your-site.com)
 - Frontend Mentor - [@kbrandon19](https://www.frontendmentor.io/profile/kbrandon19)
